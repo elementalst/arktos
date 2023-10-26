@@ -2,7 +2,7 @@
 Arktos is a open source bot made in python for the sole purpose of providing utility tools and game api integrations.
 
 # TODO
-- Add Basic functions (make the bot turn online and a ping command)
+- Add Basic functions (make the bot turn online and a ping command) ✔️
 - Ticket System
 - Verification System
 - Minecraft Commands
